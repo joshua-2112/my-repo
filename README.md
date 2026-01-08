@@ -1,3 +1,4 @@
 # my-repo
 Test  
-New line from RStudio
+New line from RStudio  
+Another new line
